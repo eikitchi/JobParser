@@ -1,6 +1,6 @@
 import json
 
-from abstract_api import AbstractJSONSaver
+from parser.abstract_api import AbstractJSONSaver
 from vacancy import Vacancy
 
 
